@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+
+	<Version>1.0.1</Version> 
+	  
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>SGU.Tools.CronExpressionBuilder.Demo</RootNamespace>
+    
+    <IsPackable>false</IsPackable>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+ 
+  <ItemGroup>
+    <PackageReference Include="SGU.Tools_CronExpressionBuilder" Version="*-*" />
+  </ItemGroup>
+
+</Project>

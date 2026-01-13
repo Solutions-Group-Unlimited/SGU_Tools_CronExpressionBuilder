@@ -1,0 +1,14 @@
+﻿Copyright (c) 2025 Solutions Group Unlimited, LLC
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software (in binary form only) to use, copy, and distribute the software
+for any purpose, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in all
+   distributions of the software.
+
+2. The software is provided "as is", without warranty of any kind, express or
+   implied, including but not limited to the warranties of merchantability,
+   fitness for a particular purpose and noninfringement.
+
+3. Source code is not provided and reverse engineering is prohibited.
